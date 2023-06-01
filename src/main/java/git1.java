@@ -5,5 +5,6 @@ public class git1 {
         System.out.println("...");
         System.out.println("sss");
         System.out.println("merge me");
+        System.out.println("hhh");
     }
 }
